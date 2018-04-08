@@ -6,7 +6,7 @@ No clockwork, you have to turn the hands manually.
 
 Line color red is cutting. Line color black is marking only. 
 Note that we fill the numbers and hands with lines, instead of letting the
-lasercutter itself engrave an area. This way we control how the darkend areas
+lasercutter itself engrave an area. This way we control how the darkened areas
 are textured.
 
 The numbers have a circular infill pattern, which can produce nice shading on natural wood.
